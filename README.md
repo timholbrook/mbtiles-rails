@@ -37,7 +37,7 @@ MBTiles::Writer.new(coords, fetcher, zoom_levels, path, access_token).save
 ```
 
 There is lack of documentation at the moment, so for additional info please
-[see specs](https://github.com/etehtsea/mbtiles-ruby/tree/master/spec).
+[see specs](https://github.com/timholbrook/mbtiles-ruby/tree/master/spec).
 
 ## Development
 For development needs you can `mock!` all requests to external source.
