@@ -4,13 +4,14 @@ MBTiles reading and writing library. Based on MBTiles-ruby using the MBTiles spe
 version 1.1.
 
 [See MBTiles-ruby](https://github.com/etehtsea/mbtiles-ruby).
+
 [See MBTiles-spec](https://github.com/mapbox/mbtiles-spec).
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'mbtiles', :git => "https://github.com/etehtsea/mbtiles-rails"
+    gem 'mbtiles', :git => "https://github.com/timholbrook/mbtiles-rails"
 
 And then execute:
 
